@@ -1,13 +1,14 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem? 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+Esse é o repositório do jogo Gênesis 2.0 com algumas mudanças... 
 
-### Os requisitos são:
+O jogo ainda está imcompleto e essa é só uma versão beta,
+
+Espero que goste! 
+
+### As tecnologias usadas foram:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
-
-
-## 🚀 Let's code! 🚀
