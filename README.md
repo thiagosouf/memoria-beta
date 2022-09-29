@@ -2,7 +2,7 @@
 
 Esse é o repositório do jogo Gênesis 2.0 com algumas mudanças... 
 
-O jogo ainda está imcompleto e essa é só uma versão beta,
+O jogo ainda está incompleto e essa é só uma versão beta,
 
 Espero que goste! 
 
