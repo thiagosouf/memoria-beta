@@ -4,7 +4,11 @@ Esse é o repositório do jogo Gênesis 2.0 com algumas mudanças...
 
 O jogo ainda está incompleto e essa é só uma versão beta,
 
-Espero que goste! 
+Espero que goste!
+
+memoria-beta.vercel.app
+
+OBS: Ao iniciar o jogo pela primeira vez, clique em qualquer cor para iniciar a partida.
 
 ### As tecnologias usadas foram:
 
