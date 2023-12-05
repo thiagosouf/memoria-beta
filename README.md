@@ -6,7 +6,7 @@ O jogo ainda está incompleto e essa é só uma versão beta,
 
 Espero que goste!
 
-memoria-beta.vercel.app
+[memoria-beta.vercel.app](https://memoria-beta.vercel.app/)
 
 OBS: Ao iniciar o jogo pela primeira vez, clique em qualquer cor para iniciar a partida.
 
